@@ -1,0 +1,4 @@
+C:\Users\akreu\Documents\COP5615\HW1\websocket\obj\Debug\net7.0\websocket.fsproj.AssemblyReference.cache
+C:\Users\akreu\Documents\COP5615\HW1\websocket\obj\Debug\net7.0\websocket.AssemblyInfoInputs.cache
+C:\Users\akreu\Documents\COP5615\HW1\websocket\obj\Debug\net7.0\websocket.AssemblyInfo.fs
+C:\Users\akreu\Documents\COP5615\HW1\websocket\obj\Debug\net7.0\websocket.fsproj.CoreCompileInputs.cache
